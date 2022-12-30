@@ -6,118 +6,118 @@ newmtl rockA
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockA.bmp
+map_Kd rockA.png
 
 newmtl rockB
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockB.bmp
+map_Kd rockB.png
 
 newmtl rockC
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockC.bmp
+map_Kd rockC.png
 
 newmtl rockD
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockD.bmp
+map_Kd rockD.png
 
 newmtl rockE
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockE.bmp
+map_Kd rockE.png
 
 newmtl rockF
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockF.bmp
+map_Kd rockF.png
 
 newmtl rockG
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockG.bmp
+map_Kd rockG.png
 
 newmtl rockH
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockH.bmp
+map_Kd rockH.png
 
 newmtl rockI
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockI.bmp
+map_Kd rockI.png
 
 newmtl rockJ
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockJ.bmp
+map_Kd rockJ.png
 
 newmtl rockK
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockK.bmp
+map_Kd rockK.png
 
 newmtl rockL
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockL.bmp
+map_Kd rockL.png
 
 newmtl rockM
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockM.bmp
+map_Kd rockM.png
 
 newmtl rockN
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockN.bmp
+map_Kd rockN.png
 
 newmtl rockO
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockO.bmp
+map_Kd rockO.png
 
 newmtl rockP
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockP.bmp
+map_Kd rockP.png
 
 newmtl rockQ
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockQ.bmp
+map_Kd rockQ.png
 
 newmtl rockR
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockR.bmp
+map_Kd rockR.png
 
 newmtl rockS
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockS.bmp
+map_Kd rockS.png
 
 newmtl rockT
 illum 1
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
-map_Kd rockT.bmp
+map_Kd rockT.png
